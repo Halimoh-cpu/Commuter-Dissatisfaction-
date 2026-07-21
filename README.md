@@ -37,6 +37,9 @@ Commuter Dissatisfaction Dashboard — MooveSmarts Transits
 ### 9	Delays during rainy weather	55.83%
 ### 10	Driver rating range	3.31 to 3.37 — all below satisfactory
 
+<img width="1180" height="540" alt="Screenshot 2026-07-21 021656" src="https://github.com/user-attachments/assets/0c16106e-e4ea-4562-84a9-1a021ea591b4" />
+
+
  # Recommendations
 ### 1 Prioritise congestion management on Ikorodu-CMS and Berger-CMS routes
 ### 2 Implement system-wide service quality improvement across all transport modes
@@ -45,21 +48,10 @@ Commuter Dissatisfaction Dashboard — MooveSmarts Transits
 ### 5 Develop rainy season operational protocols and weather-ready vehicle deployment
 ### 6 Invest in driver training and real-time passenger feedback system
 ### 7 Address cost transparency and conduct vehicle safety audits proactively
+
 # Tools Used
 ### Microsoft Excel	Data organisation, cleaning, analysis,Interactive dashboard design and visual storytelling
 ### Power Query Editor	Data transformation and preparation
-
-📁 Repository Structure
-📦 commuter-dissatisfaction-dashboard/
-│
-├── 📄 README.md
-├── 📊 data/
-│   ├── raw_commuter_data.xlsx
-│   └── cleaned_commuter_data.xlsx
-├── 📈 dashboard/
-│   └── commuter_dissatisfaction_dashboard.pbix
-└── 🖼️ screenshots/
-    └── dashboard_overview.png
 
 # Conclusion
 ### A 62% dissatisfaction rate across 4,500 trips confirms a systemic transit quality crisis in Lagos. Delays on Ikorodu-CMS and Berger-CMS routes alone account for over half of all delay incidents. Rainy weather amplifies the problem significantly. Addressing these findings requires simultaneous action across route management, weather preparedness, driver quality, and fare transparency — with commuter satisfaction improvement from 38% to a minimum of 70% as the strategic target.
