@@ -54,8 +54,6 @@ Commuter Dissatisfaction Dashboard — MooveSmarts Transits
 ### Power Query Editor	Data transformation and preparation
 
 # Conclusion
-### A 62% dissatisfaction rate across 4,500 trips confirms a systemic transit quality crisis in Lagos. Delays on Ikorodu-CMS and Berger-CMS routes alone account for over half of all delay incidents. Rainy weather amplifies the problem significantly. Addressing these findings requires simultaneous action across route management, weather preparedness, driver quality, and fare transparency — with commuter satisfaction improvement from 38% to a minimum of 70% as the strategic target.
-
-Show Image
+### A 62% dissatisfaction rate across 4,500 trips confirms a systemic transit quality crisis in Lagos. Delays on Ikorodu-CMS and Berger-CMS routes alone account for over half of all delay incidents. Rainy weather amplifies the problem significantly. Addressing these findings requires simultaneous action across route management, weather preparedness, driver quality, and fare transparency, with commuter satisfaction improvement from 38% to a minimum of 70% as the strategic target.
 
 💼 Open to Data Analyst roles, Graduate Trainee programmes and internship opportunities
